@@ -1,1 +1,3 @@
 # Polynomial_operations
+
+piece of code for polynomial operations (addition, substraction, multiplication, division)...
